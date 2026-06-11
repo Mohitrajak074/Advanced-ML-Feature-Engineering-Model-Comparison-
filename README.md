@@ -1,3 +1,4 @@
+
 # 🏠 House Price Prediction using Feature Engineering & Model Optimization
 
 ### Artificial Intelligence & Machine Learning Internship – Task 2
@@ -188,81 +189,57 @@ Generate graphs for performance analysis.
 
 ## Dataset Preview
 
-📷 Add Screenshot Here
 
-![Dataset Preview](screenshots/dataset_preview.png)
+
+<img width="940" height="289" alt="Screenshot 2026-06-04 145521" src="https://github.com/user-attachments/assets/eed81065-162b-447c-9c01-110d913ffcd2" />
 
 ---
 
 ## Correlation Heatmap
 
-📷 Add Screenshot Here
 
-![Heatmap](screenshots/heatmap.png)
+<img width="1026" height="736" alt="Screenshot 2026-06-04 143442" src="https://github.com/user-attachments/assets/8391e8ae-e77c-4db2-9492-1f879e04a1c0" />
 
----
 
 ## Pairplot Analysis
 
-📷 Add Screenshot Here
-
-![Pairplot](screenshots/pairplot.png)
-
----
+<img width="669" height="634" alt="image" src="https://github.com/user-attachments/assets/1bf9f416-cc82-48f3-ade5-aea28ec94592" />
 
 ## Model Comparison (R² Score)
 
-📷 Add Screenshot Here
+<img width="882" height="524" alt="image" src="https://github.com/user-attachments/assets/38b95e89-c5db-4088-8d37-5b33bf834a42" />
 
-![Model Comparison](screenshots/model_comparison.png)
-
----
 
 ## RMSE Comparison
 
-📷 Add Screenshot Here
+<img width="854" height="509" alt="image" src="https://github.com/user-attachments/assets/91371443-c422-475f-a5a7-4c3b9123ddd9" />
 
-![RMSE Comparison](screenshots/rmse_comparison.png)
-
----
 
 ## Actual vs Predicted Prices
 
-📷 Add Screenshot Here
+<img width="767" height="715" alt="image" src="https://github.com/user-attachments/assets/15b4c677-22b5-4783-ab5c-4e5fc12e3602" />
 
-![Prediction Plot](screenshots/prediction.png)
-
----
 
 ## Feature Importance
+<img width="752" height="473" alt="image" src="https://github.com/user-attachments/assets/26f54955-01b0-4155-94fb-9007488ee048" />
 
-📷 Add Screenshot Here
-
-![Feature Importance](screenshots/feature_importance.png)
-
----
 
 ## Residual Plot
-
-📷 Add Screenshot Here
-
-![Residual Plot](screenshots/residual_plot.png)
-
----
+<img width="949" height="555" alt="image" src="https://github.com/user-attachments/assets/c7772a59-1e1b-4606-b387-0aaf9cb69077" />
 
 # 🏆 Results
 
 | Model                   | RMSE       | R² Score   |
 | ----------------------- | ---------- | ---------- |
-| Linear Regression       | Add Result | Add Result |
-| Ridge Regression        | Add Result | Add Result |
-| Decision Tree Regressor | Add Result | Add Result |
+| Linear Regression       | 0.745      | 0.578      |
+| Ridge Regression        | 0.745      | 0.576      |
+| Decision Tree Regressor | 0.713      | 0.613      |
 
 ### Best Performing Model
 
 🏅 Add Your Best Model Here
 
----
+ Decision Tree Regressor
 
 # 📂 Project Structure
 
