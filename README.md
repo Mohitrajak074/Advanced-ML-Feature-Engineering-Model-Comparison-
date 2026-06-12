@@ -39,7 +39,7 @@ In this project, a complete machine learning workflow was implemented, including
 * Evaluate models using RMSE and R² Score
 * Visualize results using graphs
 
----
+
 
 # 🛠️ Technologies Used
 
