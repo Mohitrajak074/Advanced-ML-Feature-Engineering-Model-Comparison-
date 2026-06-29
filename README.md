@@ -277,7 +277,7 @@ House-Price-Prediction-Model-Comparison/
 
 # 👨‍💻 Author
 
-*Mohit Rajak*
+**Mohit Rajak**
 
 B.Tech Computer Science & Engineering
 
